@@ -23,9 +23,18 @@ a {
   text-decoration: none;
 }
 
+button {
+  margin: 30px;
+  width: 10rem;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+  background-color: #00b7c2;
+  color: #eee;
+  border: 0;
+}
+
 .player-container {
   display: inline-block;
-  margin-bottom: 5%;
 }
 
 #content {
